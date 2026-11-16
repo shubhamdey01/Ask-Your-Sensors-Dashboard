@@ -16,4 +16,4 @@ Semantic Retrieval
 Local LLM
     ↓
 Streamlit Dashboard
-"@ | Out-File -Encoding utf8 README.md
+"@ | Out-File -Encoding utf8 README.md# Ask-Your-Sensors-Dashboard
