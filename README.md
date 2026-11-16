@@ -1,19 +1,3 @@
-@"
-# Ask the Sensors
+# Ask-Your-Sensors Dashboard
 
-An embedding-based sensor data retrieval and local LLM system.
-
-## Architecture
-
-Sensor Data
-    ↓
-Preprocessing
-    ↓
-SQLite + Qdrant
-    ↓
-Semantic Retrieval
-    ↓
-Local LLM
-    ↓
-Streamlit Dashboard
-"@ | Out-File -Encoding utf8 README.md# Ask-Your-Sensors-Dashboard
+A hybrid relational and semantic database for natural-language smart-building sensor analytics.
